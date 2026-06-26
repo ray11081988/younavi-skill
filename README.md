@@ -8,7 +8,7 @@ Skill 是一段结构化的提示词配置（`SKILL.md`），用来给 AI 助手
 
 ## 当前 skill
 
-- **zhangxuefeng（张雪峰视角）** — 用张雪峰的视角分析大学专业选择、职业规划等问题。
+- **[zhangxuefeng（张雪峰视角）](zhangxuefeng-skill/SKILL.md)** — 用张雪峰的视角分析大学专业选择、职业规划等问题。
 
 ## 协议
 
