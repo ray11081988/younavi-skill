@@ -1,6 +1,6 @@
 # younavi-skill
 
-收集适合在 [YouNavi](https://younavi.me) 使用的、有价值的 Claude Skill。
+收集适合在 [YouNavi](https://younavi.me) 使用的、有价值的Skill。
 
 ## 什么是 Skill
 
