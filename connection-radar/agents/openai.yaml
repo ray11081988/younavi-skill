@@ -1,0 +1,7 @@
+interface:
+  display_name: "人脉雷达"
+  short_description: "从私人上下文找人，核实公开身份并给出可信触达路径"
+  default_prompt: "使用 $connection-radar 帮我找回目标人物，保留真实中间关系，并告诉我下一步联系谁、怎么说。"
+
+policy:
+  allow_implicit_invocation: true

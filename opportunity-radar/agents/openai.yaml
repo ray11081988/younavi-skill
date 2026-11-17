@@ -1,0 +1,7 @@
+interface:
+  display_name: "机会雷达"
+  short_description: "用内部原始线索和网页证据筛选可靠的BD候选目标"
+  default_prompt: "使用 $opportunity-radar 根据我的业务要求发现 3–5 个有可追溯证据的潜在客户或合作伙伴。"
+
+policy:
+  allow_implicit_invocation: true

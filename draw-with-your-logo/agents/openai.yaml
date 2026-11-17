@@ -1,0 +1,4 @@
+interface:
+  display_name: "让 Logo 动起来"
+  short_description: "上传品牌 Logo，生成统一角色设定与手绘正文配图"
+  default_prompt: "Use $draw-with-your-logo to 把我上传的 Logo 设计成稳定的品牌角色，并为这篇文章生成手绘正文配图。"

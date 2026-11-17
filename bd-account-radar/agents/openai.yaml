@@ -1,0 +1,7 @@
+interface:
+  display_name: "客户雷达"
+  short_description: "结合内部资料与网页制定BD策略，可选启用工商增强核验"
+  default_prompt: "使用 $bd-account-radar 帮我研究目标公司，判断应该找谁、为什么现在联系以及下一步怎么说。"
+
+policy:
+  allow_implicit_invocation: true
